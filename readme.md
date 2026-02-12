@@ -7,7 +7,7 @@
   <title data-i18n="seo.title">Melvin Garita — Estrategia, Excelencia Organizacional e IA para banca</title>
   <meta name="description" content="Estrategia, Excelencia Organizacional, Analítica e Inteligencia Artificial aplicada a la banca. Más de 20 años liderando ejecución estratégica, transformación, eficiencia operativa y analítica avanzada." data-i18n-attr="content:seo.description" />
   <meta name="robots" content="index,follow,max-image-preview:large" />
-  <link rel="canonical" href="https://tu-dominio.com/"/>
+  <link rel="canonical" href="https://melvingarita.github.io/"/>
 
   <!-- PWA / color del navegador -->
   <meta name="theme-color" content="#0a1a36" media="(prefers-color-scheme: light)">
@@ -18,13 +18,13 @@
   <meta property="og:site_name" content="Melvin Garita">
   <meta property="og:title" content="Estrategia, Excelencia Organizacional e IA para banca" data-i18n-attr="content:og.title">
   <meta property="og:description" content="Transformación, eficiencia y analítica avanzada con resultados medibles." data-i18n-attr="content:og.description">
-  <meta property="og:url" content="https://tu-dominio.com/">
-  <meta property="og:image" content="https://tu-dominio.com/og-image.jpg">
+  <meta property="og:url" content="https://melvingarita.github.io/">
+  <meta property="og:image" content="https://melvingarita.github.io/og-image.jpg">
   <meta property="og:image:alt" content="Portada del sitio de Melvin Garita" data-i18n-attr="content:og.imageAlt">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Estrategia, Excelencia Organizacional e IA para banca" data-i18n-attr="content:twitter.title">
   <meta name="twitter:description" content="Transformación, eficiencia y analítica avanzada con resultados medibles." data-i18n-attr="content:twitter.description">
-  <meta name="twitter:image" content="https://tu-dominio.com/og-image.jpg">
+  <meta name="twitter:image" content="https://melvingarita.github.io/og-image.jpg">
 
   <!-- ======= Fuentes (performance) ======= -->
   <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
@@ -234,7 +234,7 @@
     "name":"Melvin Garita",
     "jobTitle":"Ejecutivo de Estrategia y Excelencia Organizacional",
     "description":"Estrategia, Excelencia Organizacional, Analítica e Inteligencia Artificial aplicada a la banca.",
-    "url":"https://tu-dominio.com/",
+    "url":"https://melvingarita.github.io/",
     "sameAs":["https://www.linkedin.com/in/melvingarita"]
   }
   </script>
