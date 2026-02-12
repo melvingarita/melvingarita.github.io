@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="es" dir="ltr">
 <head>
   <!-- ======= Meta básicas ======= -->
